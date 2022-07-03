@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":2,},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":1,},
+    {"id":{"name":"shader_fullscreen","path":"shaders/shader_fullscreen/shader_fullscreen.yy",},"order":1,},
+    {"id":{"name":"obj_shader_controller","path":"objects/obj_shader_controller/obj_shader_controller.yy",},"order":1,},
+    {"id":{"name":"is_wholenumber","path":"scripts/is_wholenumber/is_wholenumber.yy",},"order":2,},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Shaders.yy","order":11,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":17,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":19,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.600.0.143",
+  },
+  "resourceVersion": "1.5",
+  "name": "Shader Fun - 28 Dithering 1",
+  "tags": [],
+  "resourceType": "GMProject",
+}
